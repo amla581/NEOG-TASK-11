@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Estonia&family=Montserrat:ital@1&display=swap');
+
+body{
+    background-color: pink;
+    color:blue;
+    font-family: 'Estonia', cursive;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    text-align: center;
+}
+.container{
+    width: 50%;
+    margin: auto;
+}
+input,
+label{
+    display: block;
+}
+
+input{
+    margin-bottom: 0.5rem;
+    width: 100%;
+}
+
+#check-number{
+    display:block;
+    margin-top:1rem;
+    margin: auto;
+}
